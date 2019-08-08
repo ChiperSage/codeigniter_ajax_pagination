@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Codeigniter Ajax Pagination and Search
 
 You can use the [editor on GitHub](https://github.com/redhabravo/codeigniter_ajax_pagination/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
