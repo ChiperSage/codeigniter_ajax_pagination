@@ -4,7 +4,7 @@ You can use the [Codeigniter APS on GitHub](https://github.com/redhabravo/codeig
 
 ### About The Project
 
-This Apps containt controllers, models and view. You can copy then replace on your ci project. 
+You can create tables easily, with this project. This project contains several files, controllers, models and views. All can be copied and pasted into your project.
 
 ```markdown
 Syntax highlighted code block
