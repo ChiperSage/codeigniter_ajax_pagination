@@ -1,12 +1,10 @@
 ## Codeigniter Ajax Pagination and Search
 
-You can use the [editor on GitHub](https://github.com/redhabravo/codeigniter_ajax_pagination/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Codeigniter APS on GitHub](https://github.com/redhabravo/codeigniter_ajax_pagination) to build a table with pagination search.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About The Project
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Apps containt controllers, models and view. You can copy then replace on your ci project. 
 
 ```markdown
 Syntax highlighted code block
